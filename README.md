@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Pratham Shah 👋
 
-<!--
-**PrathamShah1611/PrathamShah1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student
+💻 Python | Java | Web Development  
+🚀 Building projects and solving DSA problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- SQL
+
+---
+
+## 🚀 What I'm Working On
+
+- Building practical software projects
+- Solving DSA problems
+- Improving Python, Java, JavaScript and SQL
+- Learning Git and GitHub
+- Exploring AI and Web Development
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 Portfolio
+My personal portfolio website.
+
+### 🧠 30 Days LeetCode
+30 LeetCode problems in 30 days.
+
+### 🐍 Python Projects
+Practical Python applications and automation projects.
+
+
+---
+
+## 📈 GitHub Journey
+
+I'm consistently building, learning, and documenting my work.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: **Coming Soon**
