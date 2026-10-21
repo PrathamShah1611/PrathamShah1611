@@ -27,26 +27,3 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🌐 Portfolio
-My personal portfolio website.
-
-### 🧠 30 Days LeetCode
-30 LeetCode problems in 30 days.
-
-### 🐍 Python Projects
-Practical Python applications and automation projects.
-
-
----
-
-## 📈 GitHub Journey
-
-I'm consistently building, learning, and documenting my work.
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: **Coming Soon**
